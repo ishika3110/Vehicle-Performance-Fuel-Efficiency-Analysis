@@ -33,9 +33,3 @@ Here’s what I did step by step:
 
 I built this project to sharpen my end-to-end data analysis skills and tell a meaningful story using real automotive data. It reflects the kind of work I’d love to do at data-driven companies like JATO Dynamics or any team focused on transportation, mobility, or sustainability.
 
----
-
-## 🙋‍♀️ Let’s Connect
-
-If you liked this project or have feedback, feel free to [connect with me on LinkedIn](#) — I’m always up for chatting data, dashboards, or anything cars 🚙.
-
