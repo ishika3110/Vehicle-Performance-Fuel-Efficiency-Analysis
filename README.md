@@ -33,5 +33,5 @@ Here’s what I did step by step:
 
 ## Why I Did This
 
-I built this project to sharpen my end-to-end data analysis skills and tell a meaningful story using real automotive data. It reflects the kind of work I’d love to do at data-driven companies like JATO Dynamics or any team focused on transportation, mobility, or sustainability.
+I built this project to sharpen my end-to-end data analysis skills and tell a meaningful story using real automotive data.
 
