@@ -1,5 +1,7 @@
 # Auto MPG Analysis Dashboard
 
+![Image](https://github.com/user-attachments/assets/df9ba3dc-c3e4-4df3-a5f4-957d2a845b53)
+
 **Exploring Fuel Efficiency & Vehicle Performance with Python, SQL & Power BI**
 
 This project is all about uncovering patterns in fuel efficiency and engine performance using the classic Auto MPG dataset. I took this from raw data to a clean, interactive dashboard that tells a compelling story — perfect for automotive analytics and business intelligence use cases.
