@@ -1,6 +1,6 @@
 # Auto MPG Analysis Dashboard
 
-![Image](https://github.com/user-attachments/assets/df9ba3dc-c3e4-4df3-a5f4-957d2a845b53)
+![Image](https://github.com/user-attachments/assets/54345c76-4721-42a8-8064-79872009d4ac)
 
 **Exploring Fuel Efficiency & Vehicle Performance with Python, SQL & Power BI**
 
